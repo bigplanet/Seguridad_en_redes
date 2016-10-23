@@ -189,6 +189,8 @@ sub {
 img {
 	border: 0;
 	border-radius: 10px 10px 0px 0px;
+	text-align: center;
+	font-size: 9px;
 }
 
 /**
@@ -478,4 +480,7 @@ div {
 }
 .class body section article article dl table tr td dl dd h6 {
 	font-family: Arial, Helvetica, sans-serif;
+}
+.class body section article p {
+	text-align: center;
 }

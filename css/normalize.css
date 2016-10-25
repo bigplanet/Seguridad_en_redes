@@ -191,6 +191,7 @@ img {
 	border-radius: 10px 10px 0px 0px;
 	text-align: center;
 	font-size: 9px;
+	float: none;
 }
 
 /**
